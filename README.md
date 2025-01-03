@@ -3,4 +3,4 @@ A collection of assignments completed as part of my Data Science coursework. The
 Technologies Used:-
 Python
 Jupyter Notebook
-Libraries: pandas, NumPy, matplotlib, seaborn, Scikit-learn, TensorFlow, keras, NLTK
+Libraries: pandas, NumPy, matplotlib, seaborn, Scikit-learn, TensorFlow, keras, NLTK.
